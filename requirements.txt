@@ -1,0 +1,4 @@
+tokenizers -q
+transformers[torch]
+seqeval -q
+datasets
