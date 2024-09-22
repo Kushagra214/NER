@@ -1,2 +1,2 @@
 # NER
-This project uses LLMs such as RoBERTa to fine-tune it for Named Entity Recognition tasks
+This project fine-tunes RoBERTa LLM to perform Named Entity Recognition tasks.
